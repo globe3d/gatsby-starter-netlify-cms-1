@@ -3,7 +3,7 @@ templateKey: index-page
 title: Great coffee with a croissant
 image: /img/home-jumbotron.jpg
 heading: Great coffee with a croissant
-subheading: Sustainable farming, enjoying a cup of Coffee
+subheading: Sustainable farming, enjoying a cup of Coffee & Cream
 mainpitch:
   title: Why Kaldi
   description: >
